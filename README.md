@@ -91,5 +91,4 @@ Forecast는 과거 월별 매출 데이터를 기반으로 한 추정치이며 �
 ## Files
 
 - `commercial_performance_management.pbix` — Power BI 분석 파일
-- `data/` — 분석에 사용된 데이터
-- `images/` — 주요 분석 화면
+- `commercial_performance_management.pdf`  — 전체 대시보드 및 분석 결과
